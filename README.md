@@ -1,5 +1,5 @@
 # ImageBed
 
-##Usage
+Usage:
 
 https://picx.xpoet.cn/
